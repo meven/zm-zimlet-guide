@@ -98,7 +98,6 @@ Create a folder on your local computer to store the MyTest Zimlet:
       cd ~/zimbra_zimletx_course
       git clone https://github.com/Zimbra/zm-zimlet-guide
       cd zm-zimlet-guide
-      cd advanced
       npm install
       zimlet watch
 
